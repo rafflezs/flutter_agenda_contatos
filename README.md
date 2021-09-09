@@ -1,3 +1,5 @@
+# PROJETO EM HIATO - à ser finalizado
+
 # agenda_contatos - PT_BR 🇧🇷
 
 Agenda de contatos feita no padrão singleton (isso mesmo), permanência de dados e ordenação de elementos em ordem alfabetica.
